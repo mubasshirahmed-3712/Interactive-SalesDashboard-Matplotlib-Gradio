@@ -91,10 +91,10 @@ Gradio will open the dashboard in your default browser.
 ## 🙋‍♂️ About Me
 
 **Mubasshir Ahmed**  
-Aspiring Data Scientist | Full Stack DS @Kodigit  
+Aspiring Data Scientist | Full Stack DS ![@Kodigitaccount](https://github.com/kodigitaccount)  
 🔍 Passionate about AI, ML, Data Visualization & Generative Tech  
 
-🔗 LinkedIn | 📘 GitHub: [mubasshirahmed-3712](https://github.com/mubasshirahmed-3712)  
+🔗 ![LinkedIn](https://www.linkedin.com/in/mubasshir3712) | 📘 GitHub: ![mubasshirahmed-3712](https://github.com/mubasshirahmed-3712)  
 
 ---
 
